@@ -1,0 +1,2 @@
+class BodyProfile < ApplicationRecord
+end

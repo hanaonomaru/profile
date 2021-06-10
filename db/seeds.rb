@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+BodyProfile.create!(
+    name: "後藤誠",
+    height: 179,
+    weight: 65,
+)
