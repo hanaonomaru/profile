@@ -11,3 +11,9 @@ BodyProfile.create!(
     height: 179,
     weight: 65,
 )
+
+BodyProfile.create!(
+    name: "伊集院聡子",
+    height: 169.5,
+    weight: 51.2,
+)
